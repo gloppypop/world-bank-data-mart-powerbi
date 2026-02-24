@@ -15,3 +15,6 @@ data_processed/
 # Mac / Windows junk
 .DS_Store
 Thumbs.db
+
+# Virtual Environments
+venv/
