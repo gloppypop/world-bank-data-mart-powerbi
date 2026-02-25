@@ -1,10 +1,10 @@
-# World Bank Economic Indicators Data Mart + Power BI Dashboard
+# World Bank Economic Indicators Data + Power BI Dashboard
 
 This project builds an end-to-end analytics pipeline using World Bank Open Data.
 
 It demonstrates:
 - API data ingestion using Python
-- Data cleaning and transformation (long → wide format)
+- Data cleaning and transformation (long to wide format)
 - Building a star-schema SQL data mart (SQLite)
 - Interactive visualization using Power BI
 
