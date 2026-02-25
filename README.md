@@ -63,14 +63,14 @@ db/                     (ignored in Git)
 
 ## Data Pipeline Overview
 
-### Step 1 — Data Ingestion (Notebook 01)
+### Step 1 - Data Ingestion (Notebook 01)
 - Pull indicator data from the World Bank API
 - Combine multiple indicators
 - Clean missing values
 - Reshape into wide format
 - Export country-only dataset for BI use
 
-### Step 2 — SQL Data Mart (Notebook 02)
+### Step 2 - SQL Data Mart (Notebook 02)
 - Create SQLite database
 - Build star schema:
   - `dim_country`
@@ -79,7 +79,7 @@ db/                     (ignored in Git)
 - Insert cleaned data
 - Validate with SQL queries
 
-### Step 3 — Power BI Dashboard
+### Step 3 - Power BI Dashboard
 - Import processed country-only dataset
 - Build KPI cards
 - Create GDP trend line
