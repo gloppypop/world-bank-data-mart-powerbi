@@ -1,4 +1,4 @@
-# World Bank Economic Indicators Data + Power BI Dashboard
+# World Bank Economic Data + Power BI Dashboard
 
 This project builds an end-to-end analytics pipeline using World Bank Open Data.
 
